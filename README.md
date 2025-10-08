@@ -1,4 +1,4 @@
-# Lexify
+# Lexify - Laney National AI Futures Hackathon Winner 
 
 ![image](https://github.com/user-attachments/assets/a348c164-bddd-4dd5-8703-9b44992ed081)
 
